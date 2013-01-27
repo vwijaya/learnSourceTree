@@ -1,2 +1,3 @@
 file1.txt is created at remote repo
 Change 1 at remote repo
+Change 2 at local pi
